@@ -1,0 +1,9 @@
+Package: pack
+Version: 99:99
+Maintainer: Your Name <mail@domain.com>
+Architecture: all
+# Depends: some-unknown-package
+Recommends: some-unknown-package
+Description: dummy package
+ A dummy package with a version number so high that the real gnome packages
+ will never reach it.

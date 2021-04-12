@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Mon, 12 Apr 2021 16:11:34 +0200
+Source: pack
+Binary: pack
+Architecture: all
+Version: 99:99
+Distribution: unstable
+Urgency: low
+Maintainer: Your Name <mail@domain.com>
+Changed-By: Your Name <mail@domain.com>
+Description:
+ pack       - dummy package
+Changes:
+ pack (99:99) unstable; urgency=low
+ .
+   * First version
+Checksums-Sha1:
+ 6f3f066de5214c91923831e52f8d5df7978df361 2176 pack_99_all.deb
+ efafd96792005bbe614a8be8cf3cd58dd27548eb 4766 pack_99_amd64.buildinfo
+Checksums-Sha256:
+ 90260ab88c87f6dfa51f4b0b130247567aee4459e0b0c7d9bd54c757dc75914e 2176 pack_99_all.deb
+ f2e4b32b2991598966f8f67f6b4ed1ebd99b4c0b8f080ba633c304fb72c3efd8 4766 pack_99_amd64.buildinfo
+Files:
+ ac2f119e603f35e882d61a2f764acb91 2176 misc optional pack_99_all.deb
+ 567738674c8784921dac416088651562 4766 misc optional pack_99_amd64.buildinfo
